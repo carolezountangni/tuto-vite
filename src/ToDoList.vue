@@ -55,10 +55,10 @@
 
 <script  setup>
 import {ref, computed, onMounted} from 'vue'
-import Checkbox from './Composants/Checkbox.vue';
-import Button from './Composants/Button.vue';
-import Layout from './Composants/Layout.vue';
-import Timer from './Composants/Timer.vue';
+import Checkbox from './components/Checkbox.vue';
+import Button from './components/Button.vue';
+import Layout from './components/Layout.vue';
+import Timer from './components/Timer.vue';
 
 const newTodo = ref('')
 const hideCompleted = ref(false)

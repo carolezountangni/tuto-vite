@@ -59,5 +59,29 @@ Le projet sera accessible à l'adresse suivante dans votre navigateur : `http://
 
 ## Structure du projet
 
+
+
+## Contributions
+
+Ce projet est principalement destiné à des fins d'apprentissage personnel. Cependant, si vous souhaitez y contribuer, n'hésitez pas à soumettre une **pull request**.
+
+### Étapes pour contribuer :
+
+1. Forkez ce dépôt.
+2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/ma-nouvelle-fonctionnalité`).
+3. Commitez vos modifications (`git commit -am 'Ajoute une nouvelle fonctionnalité'`).
+4. Poussez votre branche (`git push origin feature/ma-nouvelle-fonctionnalité`).
+5. Créez une **pull request**.
+
+## License
+
+Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+
+## Remerciements
+
+Merci à la communauté Vue.js pour la documentation et le support, ainsi qu'à tous ceux qui contribuent au développement de ce framework puissant.
+
+
+
 Voici un aperçu de la structure du projet :
 

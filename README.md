@@ -22,7 +22,7 @@ Ce projet contient une série de tests réalisés avec Vue.js, abordant les fonc
 1. Clonez ce dépôt sur votre machine locale :
 
     ```bash
-    git clone https://github.com/ton-utilisateur/apprentissage-vuejs.git
+    git clone https://github.com/carolezountangni/tuto-vite.git
     ```
 
 2. Accédez au répertoire du projet :

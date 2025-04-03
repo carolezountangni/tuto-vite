@@ -1,29 +1,63 @@
-# tuto-vite
+# Apprentissage de Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenue dans mon projet d'apprentissage de Vue.js ! Ce projet est une collection de tests et d'expérimentations avec les différentes fonctionnalités de Vue.js. L'objectif est d'explorer et de comprendre comment fonctionne Vue.js en testant ses concepts clés de manière indépendante.
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Ce projet contient une série de tests réalisés avec Vue.js, abordant les fonctionnalités de base et avancées. Ces tests incluent, mais ne sont pas limités à, la gestion des états, le routage, les composants, les directives personnalisées, et l'interaction avec des APIs externes.
 
-## Customize configuration
+## Fonctionnalités
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Composants Vue.js** : Création et utilisation de composants réutilisables.
+- **Directives Vue.js** : Exploration des directives intégrées et personnalisation.
+- **Vue Router** : Implémentation du routage dans une application Vue.js.
+- **Vuex (Gestion de l'état)** : Utilisation de Vuex pour gérer l'état global de l'application.
+- **Interaction avec des APIs** : Tests de requêtes HTTP avec Axios.
+- **Transitions et animations** : Introduction aux transitions d'éléments dans Vue.js.
+- **Formulaires et Validation** : Manipulation des formulaires et validation des entrées utilisateurs.
+- **Tests unitaires** : Mise en place de tests pour les composants et les méthodes.
 
-## Project Setup
+## Installation
 
-```sh
-npm install
-```
+1. Clonez ce dépôt sur votre machine locale :
 
-### Compile and Hot-Reload for Development
+    ```bash
+    git clone https://github.com/ton-utilisateur/apprentissage-vuejs.git
+    ```
 
-```sh
-npm run dev
-```
+2. Accédez au répertoire du projet :
 
-### Compile and Minify for Production
+    ```bash
+    cd apprentissage-vuejs
+    ```
 
-```sh
-npm run build
-```
+3. Installez les dépendances avec npm ou yarn :
+
+    ```bash
+    npm install
+    ```
+
+    ou, si vous utilisez Yarn :
+
+    ```bash
+    yarn install
+    ```
+
+4. Démarrez le serveur de développement :
+
+    ```bash
+    npm run serve
+    ```
+
+    ou avec Yarn :
+
+    ```bash
+    yarn serve
+    ```
+
+Le projet sera accessible à l'adresse suivante dans votre navigateur : `http://localhost:8080/`.
+
+## Structure du projet
+
+Voici un aperçu de la structure du projet :
+
